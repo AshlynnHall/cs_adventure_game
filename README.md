@@ -6,7 +6,7 @@ When I was in high school, I actually really wanted to be a writer because I lov
 The user gets to read what is happening and then decide between two options of what they're going to do next. Their choices lead the story and the user decides what happens next. It's fun and
 engaging. I wanted to accomplish learning more about C# and it's functionality while developing a fun software for both myself and the user.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HB2RZTCYkI4)
 
 # Development Environment
 
